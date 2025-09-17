@@ -26,15 +26,15 @@ body {
 }
 
 .card-2 {
-    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(imagesImage-1.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(images/Image-1.jpg);
 }
 
 .card-3 {
-    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(imagesImage-2.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(images/Image-2.jpg);
 }
 
 .card-4 {
-    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(imagesImage-3.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(images/Image-3.jpg);
 }
 
 .card {
@@ -68,3 +68,4 @@ h4 {
     font-weight: normal;
 
 }
+
