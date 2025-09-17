@@ -55,7 +55,7 @@ button {
 
 .hero {
     height: 981px;
-    background: url(../images/hero.png);
+    background: url(../images/hero.jpg);
     background-position: center;
     background-size: cover;
     display: flex;
@@ -401,4 +401,5 @@ footer h2 {
     .event-card-number {
         font-size: 18px;
     }
+
 }
